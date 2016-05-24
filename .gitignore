@@ -38,5 +38,6 @@ Thumbs.db
 # JavaScript #
 ########
 node_modules/
+bower_components/
 tmp/
 .gradle/
